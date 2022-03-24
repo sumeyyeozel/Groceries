@@ -20,3 +20,12 @@ Learning of Association rules is used to find relationships between attributes i
 ![Support-and-Confidence-for-Itemset-A-and-B](https://user-images.githubusercontent.com/63556936/159930026-ba997d20-2c1a-4d3f-bf71-bb4d93331a95.png)
 
 [source](https://www.softwaretestinghelp.com/apriori-algorithm/)
+
+## Top 10 frequently sold products 
+![newplot](https://user-images.githubusercontent.com/63556936/159932601-94c4aa09-bbce-4501-be51-e53d99bd3a25.png)
+
+## Least 10 frequently sold products
+![newplot (1)](https://user-images.githubusercontent.com/63556936/159932855-b23c93ae-264a-474b-a2b0-e07b268c770f.png)
+
+## Exploring highest sales by  date
+![newplot (2)](https://user-images.githubusercontent.com/63556936/159932979-51613880-f43b-41dd-a433-e52e80c38273.png)
